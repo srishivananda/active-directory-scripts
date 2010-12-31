@@ -1,17 +1,21 @@
-## Active Directory Scripts
+Active Directory Scripts
+------------------------
 
 This project contains a set of scripts written in perl to access the active directory and output information related to people, distribution lists, org charts etc.
 
-## Dependencies
+Dependencies
+------------
 
-* Language
-** Perl 5.8
-* Modules
-** GetOpt::Long
-** Net::LDAP
-** Data::Dumper 
+Language
+* Perl 5.8
 
-## LICENSE:
+Modules
+* GetOpt::Long
+* Net::LDAP
+* Data::Dumper 
+
+LICENSE:
+--------
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
