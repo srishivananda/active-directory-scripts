@@ -4,9 +4,10 @@ This project contains a set of scripts written in perl to access the active dire
 
 ## Dependencies
 
-* Language
-** Perl 5.8
-* Modules
+Language
+* Perl 5.8
+
+Modules
 ** GetOpt::Long
 ** Net::LDAP
 ** Data::Dumper 
