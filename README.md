@@ -3,6 +3,10 @@ Active Directory Scripts
 
 This project contains a set of scripts written in perl to access the active directory and output information related to people, distribution lists, org charts etc.
 
+Author(s)
+---------
+* Sri Shivananda (srishivananda at gmail dot com)
+
 Dependencies
 ------------
 
