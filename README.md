@@ -8,9 +8,9 @@ Language
 * Perl 5.8
 
 Modules
-** GetOpt::Long
-** Net::LDAP
-** Data::Dumper 
+* GetOpt::Long
+* Net::LDAP
+* Data::Dumper 
 
 ## LICENSE:
 
